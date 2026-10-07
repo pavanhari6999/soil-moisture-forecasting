@@ -1,0 +1,9 @@
+dataset,horizon_hours,model,delta_MAE_mean,delta_MAE_median,CI95_low,CI95_high,persistence_better_pct
+Station34,1,Ridge,0.2245,0.1465,0.1704,0.2775,76.79
+Station34,6,Ridge,1.0823,0.9982,0.8938,1.2543,77.26
+Station34,12,Ridge,2.3319,2.1346,1.9480,2.6724,81.01
+Station34,24,Ridge,5.9366,6.1750,5.1566,6.6952,87.81
+Station35,1,Ridge,0.1248,0.0989,0.0963,0.1544,80.13
+Station35,6,Ridge,0.6246,0.4228,0.4481,0.8097,74.36
+Station35,12,Ridge,1.1984,0.7578,0.8657,1.5636,78.23
+Station35,24,Ridge,2.5554,1.6317,1.9148,3.2902,83.52
