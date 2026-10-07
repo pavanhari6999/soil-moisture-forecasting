@@ -1,0 +1,10 @@
+metric,value
+raw_observations,22111
+qc_retained,22050
+qc_removed,61
+retention_percent,99.724
+station_horizon_combinations,8
+persistence_wins,8
+best_ml_wins,0
+mean_relative_MAE_increase_percent,117.68
+bootstrap_replicates,2000
