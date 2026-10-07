@@ -2,11 +2,13 @@
 
 ## Source dataset
 
-**AgriDataValue – Environmental Data Useful for Smart Irrigation**  
-Zenodo DOI: https://doi.org/10.1016/10.1016/rs17142397
+**AgriDataValue – Environmental Data Useful for Smart Irrigation**
+
+Zenodo DOI: https://doi.org/10.18959383
 
 The research source is the publicly accessible AgriDataValue dataset deposited at Zenodo:
-https://doi.org/10.5281/zenodo.18959383
+
+https://zenodo.org/records/18959383
 
 Four station-year datasets are covered:
 
