@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+title: "Beyond Persistence: A Chronological Benchmark of Machine Learning for Short-Term Soil Moisture Forecasting Across Station-Year Datasets"
+authors:
+  - family-names: "Daggumati Pavan Hari Krishna"
+date-released: 2026-10-07
+version: "1.0.0"
+repository-code: "https://github.com/pavanhari6999/soil-moisture-forecasting"
+keywords:
+  - soil moisture forecasting
+  - machine learning
+  - persistence baseline
+  - smart agriculture
+  - time-series forecasting
+  - temporal validation
+  - bootstrap uncertainty
