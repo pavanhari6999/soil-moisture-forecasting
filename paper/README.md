@@ -1,22 +1,22 @@
 # Manuscript package
 
-The manuscript uses IEEE journal formatting and reports the verified primary benchmark and robustness analyses.
+This directory contains manuscript-related material created for the study.
+
+## Copyright-safe policy
+
+Only original manuscript material and bibliographic metadata are stored here. Publisher versions of articles, copied text from published works, and third-party figures/tables are not included.
+
+Before journal submission, verify the target journal's rules concerning public preprints, accepted manuscripts, supplementary files, and repository deposition. If the journal prohibits public manuscript deposition, keep the manuscript private or remove it from the public repository.
 
 ## Final title
 
 Beyond Persistence: A Chronological Benchmark of Machine Learning for Short-Term Soil Moisture Forecasting Across Station-Year Datasets
 
-## Main empirical result
+## Final pre-submission checks
 
-Persistence achieved the lowest MAE in all 8 station-horizon comparisons. Ridge was the strongest ML model in all 8 comparisons, but remained worse than persistence. The mean relative MAE increase of the best ML model versus persistence across the eight station-horizon combinations was 117.68%.
-
-## Required publication checks before submission
-
-- Confirm the final author affiliation.
-- Confirm the dataset license/reuse terms with the original data authors if raw-data redistribution is needed.
-- Add the final repository URL to the manuscript.
+- Verify author affiliation.
 - Verify all bibliography entries and DOIs.
-- Ensure the manuscript's scope statement matches the exact datasets used in the primary benchmark.
-- Remove all internal author notes/checklists before submission.
-
-The repository must not be used to fabricate or selectively alter experimental results.
+- Confirm dataset reuse terms.
+- Add the final repository URL to the manuscript only after the repository is final.
+- Remove internal author notes/checklists before submission.
+- Follow the selected journal's copyright and self-archiving policy.
