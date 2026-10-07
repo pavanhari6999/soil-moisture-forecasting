@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.ipynb_checkpoints/
+.DS_Store
+*.log
+data/raw/
+*.xlsx
+*.xls
+*.csv
+!results/*.csv
